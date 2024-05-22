@@ -1,2 +1,1 @@
-# myFirstTry
-1ST try
+it a kiotlin code
